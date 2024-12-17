@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axm19
+- 👋 Hi, I’m Ayesha Muhammad
 - 👀 I’m interested in building skills
 - 🌱 I’m currently learning Data Science
 
