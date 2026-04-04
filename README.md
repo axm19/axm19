@@ -1,10 +1,10 @@
 Hi, I’m Ayesha Muhammad!
 
-About me:
+👤About me:
+
 I am a graduate with a Bachelor’s degree in Informatics Engineering and a strong interest in building real-world software solutions. I am currently training toward becoming a Full Stack Engineer, focusing on modern web technologies and practical, project-based learning.
 
-Skills:
-Programming Languages:
+💻Skills
 HTML
 CSS
 JAVACRIPT
