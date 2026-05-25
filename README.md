@@ -2,7 +2,7 @@ Hi, I’m Ayesha Muhammad!
 
 👤About me:
 
-I am a graduate with a Bachelor’s degree in Informatics Engineering and a strong interest in building real-world software solutions. I am currently training toward becoming a Full Stack Engineer, focusing on modern web technologies and practical, project-based learning.
+I am a graduate with a Bachelor’s degree in Informatics Engineering and studying in masters of science in applied artificial intelligence and a strong interest in building real-world software solutions. I am currently training toward becoming a Full Stack Engineer, focusing on modern web technologies and practical, project-based learning.
 
 💻Skills
 <li>HTML</li>
@@ -12,6 +12,7 @@ I am a graduate with a Bachelor’s degree in Informatics Engineering and a stro
 <li>TAILWIND CSS</li>
 <li>PYTHON</li>
 <li>MATLAB</li>
+<li>AI/ML</li>
 
 
 
